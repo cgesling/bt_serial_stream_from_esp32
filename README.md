@@ -8,6 +8,14 @@ This project is able to connect to 5 different ESP32s and keep communication wit
 - Livewell Timers need to be re-written in better form
 - Depending on Device used - there may be UI overflow issues on the Livewell controls screen 
 
+==Future Enhancements?== 
+- Easily could make this iOS as well as android
+- ESP32s have immense amounts of I/Os with very little work I probably could have done all these functions from 1 ESP instead of 5
+- ESP32 code is the same for every instance- i.e operating the same I/O pin
+- Had thoughts of adding Dissolved Oxygen Meters connected to the ESP32 to give Feedback to the App as to the 'healthy-ness' of the water
+- Had thoughts of adding Temperature probe to ESP32 to give feedback to the user over the app of temperature of the water
+- Build models to integrate Automatic Livewell controls based on Dissolved Oxygen/Temperature. Such that the user can set parameters as to when to automatically empty the livewell and refill. (Example- When the temperature of the livewell water differs from the temperature of the lake water by >10degrees- empty and refill the livewell when boat speed >3mph etc).
+
 Code for the ESP32 needs to be added to this project. 
 
 
