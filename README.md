@@ -1,16 +1,12 @@
 # bt_serial_stream_from_esp32
 
-A new Flutter application.
+First attempt to write a flutter application that connects to an ESP32 and is able to control outputs on command from Mobile application. 
 
-## Getting Started
+This project is able to connect to 5 different ESP32s and keep communication with all concurrently to automate electronics on a boat. 
 
-This project is a starting point for a Flutter application.
+== Current issues==
+- Livewell Timers need to be re-written in better form
+- Depending on Device used - there may be UI overflow issues on the Livewell controls screen 
 
-A few resources to get you started if this is your first Flutter project:
+Code for the ESP32 needs to be added to this project. 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
