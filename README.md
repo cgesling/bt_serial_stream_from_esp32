@@ -10,3 +10,12 @@ This project is able to connect to 5 different ESP32s and keep communication wit
 
 Code for the ESP32 needs to be added to this project. 
 
+
+## Light Button UI
+![image](https://user-images.githubusercontent.com/46823960/147960665-39205bb1-49af-4db9-9307-51fc75942662.png)
+
+## Livewell Control Ui
+
+![image](https://user-images.githubusercontent.com/46823960/147960777-fe5acf8b-078e-4b5b-bec6-38f4db799b59.png)
+## Bluetooth Device Discover Ui
+![image](https://user-images.githubusercontent.com/46823960/147960742-696b7957-24fb-4af7-8191-66ea02d9929a.png)
